@@ -1,7 +1,4 @@
 ### Bangkit Academy 2023 Batch 1
-### Repository for Machine Learning Path
-
-
 # FaceU
 FaceU /’féi.seu/ is an android application integrated with machine learning where this application able to detect problems on facial skin, this application can detect acne, dark spots, wrinkles, and redness on the face, apart from the above problems will be considered as normal conditions.
 _____________________________________________________________________________________________________________________________________________________________
@@ -26,7 +23,7 @@ ________________________________________________________________________________
 __________________________________________________________
 
 # Dataset
-Our Dataset is consist of acne, wrinkles, dark spot, redness, and normal labels from Kaggle. But, for normal labels, we created the dataset by ourself. 
+Our Dataset is consist of acne, wrinkles, dark spot, redness, and normal labels from Kaggle. But, for normal labels, we created the dataset by ourself.
 
 # Model 
 This research will perform the classification of images or pictures of several problem skin using Convolutional Neural Network (CNN), which is one of the deep learning methods. The layers present in the architecture of Convolutional Neural Network (CNN) include convolutional and activation layers, pooling, flatten, fully connected, and output. The design of this CNN architecture is processed using the Google Colaboratory platform with the Python programming language using the "Keras" package. We built model using transfer learning from MobileNet. The model will classify image with multiclass output type. For implementation to android mobile, we convert model to h5 format. 
@@ -35,6 +32,8 @@ This research will perform the classification of images or pictures of several p
   * Tensorflow
   * Numpy
   * Matplotlib
+  * OS
+  * PIL
 
 ## © Copyright C23-PS429
   Capstone Project FaceU - Bangkit Academy 2023
