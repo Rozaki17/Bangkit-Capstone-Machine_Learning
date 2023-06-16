@@ -29,7 +29,7 @@ __________________________________________________________
 Our Dataset is consist of acne, wrinkles, dark spot, redness, and normal labels from Kaggle. But, for normal labels, we created the dataset by ourself. 
 
 # Model 
-We built model using transfer learning from MobileNet. Convert model to h5 format for implementation. The model will classify image with multiclass output type.
+This research will perform the classification of images or pictures of several problem skin using Convolutional Neural Network (CNN), which is one of the deep learning methods. The layers present in the architecture of Convolutional Neural Network (CNN) include convolutional and activation layers, pooling, flatten, fully connected, and output. The design of this CNN architecture is processed using the Google Colaboratory platform with the Python programming language using the "Keras" package. We built model using transfer learning from MobileNet. The model will classify image with multiclass output type. For implementation to android mobile, we convert model to h5 format. 
 
 ## Library🚀
   * Tensorflow
