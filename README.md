@@ -1,11 +1,6 @@
 ### Bangkit Academy 2023 Batch 1
 ### Repository for Machine Learning Path
 
-# FaceU
-
-# Dataset
-
-# Model Deployment
 
 # FaceU
 FaceU /’féi.seu/ is an android application integrated with machine learning where this application able to detect problems on facial skin, this application can detect acne, dark spots, wrinkles, and redness on the face, apart from the above problems will be considered as normal conditions.
@@ -30,11 +25,10 @@ ________________________________________________________________________________
 | Fredyka Maulana   | B23-A179   | June 8, 2023      |
 __________________________________________________________
 
-# FaceU Machine Learning Model API Deployment
+# Dataset
 
+# Model Deployment
 
-**Architecture Cloud**☁️ <br>
- ![Image](architecturecloud.png "image") <br>
 
 ## About
 This API for FaceU Skin Detection.
