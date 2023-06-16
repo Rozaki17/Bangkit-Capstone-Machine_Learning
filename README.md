@@ -26,22 +26,15 @@ ________________________________________________________________________________
 __________________________________________________________
 
 # Dataset
+Our Dataset is consist of acne, wrinkles, dark spot, redness, and normal labels from Kaggle. But, for normal labels, we created the dataset by ourself. 
 
-# Model Deployment
+# Model 
+We built model using transfer learning from MobileNet. Convert model to h5 format for implementation. The model will classify image with multiclass output type.
 
-
-## About
-This API for FaceU Skin Detection.
-| Method  | Endpoint         | Description                                                                         |
-| -----   | ----------       | ------------------                                                                  |
-| POST    | `/predict_image` | Store images to Cloud Storage. Invalid entries response will be 400                 |
-| GET     | `/show_predictions`  | Returns an array of `predictions`                                               |
-| GET     | `/get_images`    | Returns an array of `images`                                                        |
-
-
-## Made with FastAPI 🚀
-  * Deploy on Google Cloud Run
-  * Image Stored in Google Cloud Storage
+## Library🚀
+  * Tensorflow
+  * Numpy
+  * Matplotlib
 
 ## © Copyright C23-PS429
   Capstone Project FaceU - Bangkit Academy 2023
